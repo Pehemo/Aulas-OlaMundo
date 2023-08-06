@@ -1,0 +1,19 @@
+.simples{
+    font-size: 18px;
+    text-align: justify;
+    font-style: initial;
+}   
+
+.importante{
+    font-size: 24px;
+    color: blue;
+    text-align: justify;
+    font-style:  Courier ;
+}
+
+
+.Lembre{
+    font-size: 30px;
+    color: red;
+    text-align: justify;
+}
